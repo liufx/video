@@ -2,9 +2,9 @@
 
 # video
 ## 自定义VideoView
-![Image text](https://github.com/liufx/video/image/1.png)
-![Image text](https://github.com/liufx/video/image/2.png)
-<video src="https://github.com/liufx/video/image/20200512103723.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
+![Image text](https://github.com/liufx/video/tree/master/image/1.png)
+![Image text](https://github.com/liufx/video/tree/master/image/2.png)
+<video src="https://github.com/liufx/video/tree/master/image/20200512103723.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
 ##关键方法
