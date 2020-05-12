@@ -2,8 +2,8 @@
 
 # video
 ## 自定义VideoView
-![Image text](https://github.com/liufx/video/blob/master/image/1.jpg)
-![Image text](https://github.com/liufx/video/blob/master/image/2.jpg)
+![image](https://github.com/liufx/video/blob/master/image/1.jpg)
+![image](https://github.com/liufx/video/blob/master/image/2.jpg)
 <video src="https://github.com/liufx/video/blob/master/image/20200512103723.mp4" controls="controls" width="500" height="300">您的浏览器不支持播放该视频！</video>
 
 
